@@ -1,6 +1,6 @@
 #React Steps Component
 
-##Buid
+##Run
 First, install npm dependencies and run start command.
 
 ```
